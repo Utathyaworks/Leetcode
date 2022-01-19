@@ -5,6 +5,8 @@ This repository contains solutions to different levels of problems
 EASY :
 
 1. [Majority Element](https://leetcode.com/problems/majority-element/)
+2. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+3. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 
 
 
